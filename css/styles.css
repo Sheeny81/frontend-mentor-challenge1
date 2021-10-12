@@ -1,0 +1,204 @@
+a
+{
+	color:hsl(245,75%,52%);
+}
+
+body
+{
+	background-color:hsl(225,100%,94%);
+	font-family:'Red Hat Display', sans-serif;
+	font-size:16px;
+  position:relative;
+}
+
+h1
+{
+	color:hsl(223,47%,23%);
+	font-weight:900;
+	padding-bottom:.5rem;
+	padding-top:1rem;
+}
+
+h2
+{
+	color:hsl(223,47%,23%);
+	font-size:1rem;
+}
+
+p
+{
+	color:hsl(224,23%,55%);
+	font-size:1em;
+	font-weight:500;
+	line-height:1.7;
+	margin:auto;
+	padding-bottom:1.2rem;
+	position:relative;
+	width:70%;
+}
+
+
+
+.attribution {
+  font-size: 0.6875rem;
+  text-align: center;
+  position: relative;
+  top: 12rem;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+
+
+.back-img
+{
+	scale:150%;
+	width:100%;
+}
+
+.change
+{
+	font-size:0.9rem;
+	font-weight:700;
+	left:75%;
+	position:absolute;
+	top:2.8rem;
+  color:#3829E0;
+
+}
+
+.change:hover{
+  text-decoration: none;
+  color:#6C62DD;
+}
+
+.container
+{
+	background-color:#FFF;
+	border-radius:1.2rem;
+	height:45rem;
+	margin:-22% auto;
+	position:relative;
+	text-align:center;
+	width:28.125rem;
+}
+
+.icon-music
+{
+	position:absolute;
+  top:25%;
+  left:6%;
+}
+
+.annual-price{
+  position: absolute;
+  left: 25%;
+  top: 20%;
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+
+.price{
+  position:absolute;
+  font-weight: 500;
+  left:25%;
+  top:50%;
+  font-size: 1.05rem;
+}
+
+.payment
+{
+	-moz-border-radius:1rem;
+	-moz-box-shadow:4px 4px 9px 4px #C7C5F1;
+	-webkit-border-radius:1rem;
+	-webkit-box-shadow:4px 4px 9px 4px #C7C5F1;
+	background-color:#3829E0;
+	border-radius:.6rem;
+	box-shadow:4px 4px 9px 4px #C7C5F1;
+	color:#FFF;
+	cursor:pointer;
+	font-size:.9rem;
+	font-weight:700;
+	height:3rem;
+	margin:1.5rem auto;
+	position:relative;
+	text-align:center;
+	text-decoration:none;
+	width:22rem;
+}
+
+.payment:hover
+{
+	-moz-border-radius:1rem;
+	-webkit-border-radius:.6rem;
+	background:#6C62DD;
+	border:solid #6C62DD 0;
+	border-radius:.6rem;
+	text-decoration:none;
+}
+
+.sale-zone
+{
+	background-color:hsl(225,100%,98%);
+	border-radius:.6rem;
+	height:4rem;
+	line-height:.5rem;
+	margin:0.2rem auto;
+	padding:1rem;
+	position:relative;
+	text-align:left;
+	width:20rem;
+}
+
+.top-image
+{
+	border-top-left-radius:1.2rem;
+	border-top-right-radius:1.2rem;
+}
+
+.cancel{
+  text-decoration:none;
+  color:hsl(224, 23%, 55%);
+  font-weight:700;
+	font-size:0.9rem;
+}
+
+.cancel:hover{
+  color:hsl(223, 47%, 23%);
+}
+/*# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Pale blue: hsl(225, 100%, 94%)
+- Bright blue: hsl(245, 75%, 52%)
+
+### Neutral
+
+- Very pale blue: hsl(225, 100%, 98%)
+- Desaturated blue: hsl(224, 23%, 55%)
+- Dark blue: hsl(223, 47%, 23%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 16px
+
+### Font
+
+- Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
+- Weights: 500, 700, 900
+*/
